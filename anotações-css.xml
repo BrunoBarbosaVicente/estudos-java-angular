@@ -1,0 +1,9 @@
+Em css para resetar o padrão que todo navegador adiciona automaticamente usar
+*{
+    "codigo que deseja resetar"
+}
+
+Site gerador de sombras, CSS Gerenerator box-shadow, pesquisar para estudar.
+
+Sempre que for criar um elemento customizado, criar o nome com um hifen
+ex: nome-nome
